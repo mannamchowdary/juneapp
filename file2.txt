@@ -1,4 +1,13 @@
+
 sub()
 {
 println("subscrationg two numbers")
 }
+
+add()
+{
+
+println("adding two members")
+
+}
+
