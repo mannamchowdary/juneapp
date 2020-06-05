@@ -12,3 +12,9 @@ println("adding two members")
 
 }
 
+mul()
+{
+---
+----
+---
+}
